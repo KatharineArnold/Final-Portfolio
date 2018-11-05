@@ -1,3 +1,9 @@
+.github{
+	color:lightslategray;
+}
+
+
+
 .img-responsive{
 height: 100%;
 width: 100%;
@@ -211,10 +217,18 @@ header .intro-text {
 }
 #about img {
 	border-radius: 50%;
-	width: 160px;
-	height: 160px;
+	width: 210px;
+	height: 210px;
 	display: inline-block;
 }
+.contact-img{
+	border-radius: 50%;
+	width: 210px;
+	height: 290px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
 #about p {
 	margin-top: 40px;
 	margin-bottom: 30px;
